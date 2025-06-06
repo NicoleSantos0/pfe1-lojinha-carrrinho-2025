@@ -1,0 +1,52 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Smartphone Galaxy S24",
+            "descricao": "Smartphone premium com câmera de 108MP e processador Snapdragon 8 Gen 2.",
+            "preco": 3500.00,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/smartphone.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Caderno Espiral Colegial",
+            "descricao": "O Caderno Espiral Capa Dura Colegial 1 Matéria Happy Colorido 80 Folhas possui formato inovador e compacto, ideal para quem gosta de praticidade. Possui capa dura, bolsa de papel decorada, folhas pautadas decoradas e folhas coloridas sem pauta e espiral colorido. Ideal para o dia a dia.",
+            "preco": 47.90,
+            "categoria": "Escola",
+            "imagem": "assets/images/caderno.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Camiseta Corinthians I",
+            "descricao": "A Camisa Corinthians I 24/25 Torcedor Nike Masculina é mais que um uniforme – é um símbolo da luta antirracista. Desenvolvida em parceria com o Observatório da Discriminação Racial no Futebol, a camisa tem um degradê do branco ao preto e traz na gola o slogan Tamo Junto e Misturado, reforçando o compromisso do Corinthians com a igualdade e o combate ao racismo. ",
+            "preco": 340.00,
+            "categoria": "Camisa de Time",
+            "imagem": "assets/images/camisa.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Carregador Portátil",
+            "descricao": "A nova bateria externa Samsung através das tecnologias de carregamento AFC e Quick Charger 2.0, permite que você carregue rapidamente o seu smartphone em qualquer lugar. Conta ainda com função de proteção contra sobrecarga de corrente, para que você pos",
+            "preco": 180.00,
+            "categoria": "Eletrônicos",
+            "imagem": "assets/images/carregador.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Garrafa Térmica",
+            "descricao": "A Garrafa Térmica 500ml Colors além de linda é super funcional. Seu acabamento é em aço escovado colorido. Sua tampa hermética garante mais segurança na hora de transportar sua bebida.",
+            "preco": 110.00,
+            "categoria": "Garrafa Térmica",
+            "imagem": "assets/images/garrafa.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "Livro O Homem de Giz",
+            "descricao": "Com duas linhas do tempo entrelaçadas, o livro mistura mistério, amizade e horror, como um Stranger Things macabro ou um Stephen King cheio de reviravoltas. O passado nunca está realmente morto e alguns segredos voltam para assombrar.",
+            "preco": 38.45,
+            "categoria": "Livro",
+            "imagem": "assets/images/livro.jpg"
+        }
+    ]
+}
